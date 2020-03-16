@@ -1,0 +1,17 @@
+tbody tr {
+    text-align: center;
+}
+
+.table-customer-information tbody tr{
+    text-align: left;
+}
+.customer-icon {
+    font-size: 10rem;
+    text-align: center;
+}
+.d-no {
+    color: #f50001;
+}
+.d-yes {
+    color: #22bb33;
+}
